@@ -1,0 +1,2 @@
+#VENV setup:
+#pip install mediapipe opencv-python
